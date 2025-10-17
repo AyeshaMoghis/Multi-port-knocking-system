@@ -1,6 +1,6 @@
 ## Secure Multi-Port Knocking System
 
-Python-based port knocking security system that controls server access through encrypted knock sequences, implementing authentication protocols and firewall integration for enhanced protection.\
+Python-based port knocking security system that controls server access through encrypted knock sequences, implementing authentication protocols and firewall integration for enhanced protection.   
 
 Features
 - Multi-Port Knocking: TCP/UDP socket programming for knock detection
